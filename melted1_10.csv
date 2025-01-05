@@ -1,0 +1,6 @@
+Date,Line_x,Station_ID,Station_Name_x,Type,Time,Passenger_Count
+2023-01-01,1호선,150,서울역,승차,Before_6AM,215
+2023-01-01,1호선,150,서울역,하차,Before_6AM,154
+2023-01-01,1호선,151,시청,승차,Before_6AM,48
+2023-01-01,1호선,151,시청,하차,Before_6AM,64
+2023-01-01,1호선,152,종각,승차,Before_6AM,407
